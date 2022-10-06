@@ -8,8 +8,8 @@ Olá, eu sou graduado em ciências da computação🎓 e atualmente trabalho com
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="45%" height="180em" align="center" src="https://github-readme-stats-ziqa.vercel.app/api?username=JonasGarciaGit&show_icons=true&theme=dracula" />
-<img width="45%" height="180em" align="center" src="https://github-readme-stats-ziqa.vercel.app/api/top-langs/?username=JonasGarciaGit&layout=compact&theme=dracula" />
+<img width="45%" height="100em" align="center" src="https://github-readme-stats-ziqa.vercel.app/api?username=JonasGarciaGit&show_icons=true&theme=dracula" />
+<img width="45%" height="100em" align="center" src="https://github-readme-stats-ziqa.vercel.app/api/top-langs/?username=JonasGarciaGit&layout=compact&theme=dracula" />
 </div>
 
 <h2>Minha Stack de Tecnologias 👨‍💻</h2>
