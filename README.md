@@ -1,4 +1,4 @@
-<img src="https://github.com/JonasGarciaGit/JonasGarciaGit/blob/main/gh_background2.png" width="100%" height="500" />
+<img src="https://github.com/JonasGarciaGit/JonasGarciaGit/blob/main/gh_background2.png" width="100%" height="400" />
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-garcia-a503a6167/)
 
@@ -26,7 +26,6 @@ Olá, eu sou graduado em ciências da computação🎓 e atualmente trabalho com
   <img align="center" alt="html5" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <p></p>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
