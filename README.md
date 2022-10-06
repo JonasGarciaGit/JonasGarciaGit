@@ -6,13 +6,11 @@ Olá, eu sou graduado em ciências da computação🎓 e atualmente trabalho com
 
 <h2>Meus Status do Git Hub 📖</h2>
 
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ziqa.vercel.app/api?username=JonasGarciaGit&show_icons=true&theme=dracula" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ziqa.vercel.app/api/top-langs/?username=JonasGarciaGit&layout=compact" />
-</a>
+<img width="45%" height="180em" align="center" src="https://github-readme-stats-ziqa.vercel.app/api?username=JonasGarciaGit&show_icons=true&theme=dracula" />
+<img width="45%" height="180em" align="center" src="https://github-readme-stats-ziqa.vercel.app/api/top-langs/?username=JonasGarciaGit&layout=compact&theme=dracula" />
+</div>
 
 <h2>Minha Stack de Tecnologias 👨‍💻</h2>
 <div style="display: inline_block">
@@ -22,6 +20,7 @@ Olá, eu sou graduado em ciências da computação🎓 e atualmente trabalho com
   <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <p></p>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
