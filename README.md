@@ -6,8 +6,9 @@ Olá, eu sou graduado em ciências da computação🎓 e atualmente trabalho com
 
 <h2>Meus Status do Git Hub 📖</h2>
 
-![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasGarciaGit&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasGarciaGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jonas GitHub stats](https:/github-readme-stats-ziqa.vercel.app/api?username=JonasGarciaGit&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats-ziqa.vercel.app/api/top-langs/?username=JonasGarciaGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Minha Stack de Tecnologias 👨‍💻</h2>
 <div style="display: inline_block">
