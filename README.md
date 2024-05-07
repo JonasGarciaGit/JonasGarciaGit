@@ -1,7 +1,5 @@
 <img src="https://github.com/JonasGarciaGit/JonasGarciaGit/blob/main/gh_background2.png" width="100%" height="400" />
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-garcia-a503a6167/)
-
 Olá, eu sou graduado em ciências da computação🎓 e atualmente trabalho como desenvolvedor back-end utilizando java e spring boot como framework🖥️. Eu sou apaixonado por jogos🕹️ e por isso no meu tempo livre eu costumo trabalhar em alguns projetos pessoais criandos jogos🎮 para as mais diversas plataformas. Espero no futuro conseguir viver apenas disso 😄💭...
 
 <h2>Meus Status do Git Hub 📖</h2>
